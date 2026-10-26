@@ -17,3 +17,9 @@ report/*.aux
 report/*.log
 report/*.out
 report/*.synctex.gz
+
+# team-only study guides (kept locally, not published)
+docs/PROJECT_GUIDE.md
+docs/SH-CADI_Project_Guide.pdf
+docs/CODE_OVERVIEW.md
+docs/SH-CADI_Code_Overview.pdf

@@ -18,8 +18,6 @@ Full numbers: `benchmark_results/RESULTS.md`.
 | File | Contents |
 |---|---|
 | `report/SH-CADI_Report.tex` | Final project report, IEEE format (LaTeX; upload `report/SH-CADI_Report_Overleaf.zip` to Overleaf to compile) |
-| `docs/PROJECT_GUIDE.md` / `docs/SH-CADI_Project_Guide.pdf` | Full explanation of the project, results and viva questions with answers |
-| `docs/CODE_OVERVIEW.md` / `docs/SH-CADI_Code_Overview.pdf` | What each file and code block does |
 | `docs/ALGORITHMS.md` | Purpose, complexity, code and tests for every algorithm |
 | `docs/LITERATURE.md` | Literature check and what is (and is not) claimed as new |
 | `benchmark_results/RESULTS.md` | All measured results, tables and plots |
