@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+# generated at runtime by the demo / benchmarks
+CloudStorage/
+MetadataJournal/
+ProtectedStorage/
+benchmark_results/*.tmp
+*.tmp.html
+
+# LaTeX build files (if compiled locally)
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
